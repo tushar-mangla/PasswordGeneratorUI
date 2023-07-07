@@ -1,0 +1,130 @@
+.container {
+  max-width: 400px;
+  margin: auto;
+  margin-top: 4rem;
+  padding: 20px;
+  background-color: #24232b;
+  border-radius: 5px;
+}
+
+.float-left {
+  float: left;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: Arial;
+  margin-bottom: 5px;
+  color: #707070;
+}
+
+.float-right {
+  float: right;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: Arial;
+  margin-bottom: 5px;
+  color: #ffffff;
+}
+.input-range {
+  margin-top: 0px;
+  margin-bottom: 24px;
+}
+
+h2 {
+  text-align: left;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+.settings {
+  margin-bottom: 20px;
+  color: #707070;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="range"] {
+  width: 100%;
+  accent-color: #2a8b8b;
+}
+
+input[type="checkbox"] {
+  accent-color: #2a8b8b;
+  margin-right: 12px;
+  border-radius: 50%;
+  color: #24232b;
+  outline: 2px solid #707070;
+}
+
+span {
+  display: inline-block;
+  margin-left: 10px;
+}
+.lenLeft {
+  text-align: left;
+}
+.lenRight {
+  text-align: right;
+}
+.checkboxes {
+  color: #707070;
+  background-color: #24232b;
+}
+.checkbox {
+  margin-bottom: 12px;
+  border-radius: 10%;
+}
+.checkbox-text {
+  font-size: 16px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.poor {
+  color: #707070;
+}
+.checkboxes label {
+  display: block;
+}
+
+.box {
+  background-color: black;
+  margin-bottom: 20px;
+}
+
+.generate-btn {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 20px;
+  color: #ffffff;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #2a8b8b;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.result {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.password {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+body {
+  background-color: antiquewhite;
+}
